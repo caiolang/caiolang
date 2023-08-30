@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @caiolang
-- 🇫🇷 Brazilian currently in Bordeaux (FR)
+- 🇧🇷 Brazilian currently in 🇫🇷 Bordeaux
 - 👾 In the intersection between data, AI and web technologies
 - 📫 Reach me at caioelang(at)gmail(dot)com
 - 🌐 www.caiolang.com
