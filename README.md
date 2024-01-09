@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @caiolang
-- 🇧🇷 Brazilian currently in 🇫🇷 Bordeaux
+- 🇧🇷 Campinas, SP, Brazil
 - 👾 In the intersection between data, AI and web technologies
 - 📫 Reach me at caioelang(at)gmail(dot)com
 - 🌐 www.caiolang.com
+- 🧑🏻‍💻️ Senior Data Analyst at [Flash](https://flashapp.com.br/)
