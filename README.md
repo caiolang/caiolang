@@ -3,4 +3,4 @@
 - 👾 In the intersection between data, AI and web technologies
 - 📫 Reach me at caioelang(at)gmail(dot)com
 - 🌐 www.caiolang.com
-- 🧑🏻‍💻️ Senior Data Analyst at [Flash](https://flashapp.com.br/)
+- 🧑🏻‍💻️ Data & AI at [Flash](https://flashapp.com.br/)
